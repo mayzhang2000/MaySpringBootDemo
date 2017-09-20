@@ -13,4 +13,6 @@ Sorting
 
 JDBCTemplate: In its own client, doing datanbase crud.
 
+JPA Spring: In config, create entity manager bean.
+
 mvn spring-boot:run -Dserver.port=8181 to start the server
